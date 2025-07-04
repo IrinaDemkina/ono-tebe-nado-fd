@@ -328,9 +328,6 @@
 }
 
 .footer__menu-link_active{
-    display: flex;
-    justify-content: center;
-    align-items: center;
     text-decoration: none;
 }
 
